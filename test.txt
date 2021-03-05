@@ -1,3 +1,9 @@
 git add -A
 git commit -m "message"
 git push
+
+-----------------------
+
+git branch <new_branch_name>
+git branch --list
+git checkout <branch_name> pozicioniranje na branch
